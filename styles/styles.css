@@ -1,0 +1,98 @@
+*{
+    padding:0;
+    margin:0;
+}body {
+    width: 100%;
+    height: 100%;
+}
+.wrap {
+    width: 100%;
+    height: 100%;
+}
+.container {
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    width: 520px;
+}
+.casilla {
+    position: relative;
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
+#casilla1 {
+    background-color: red;
+}
+#casilla2 {
+    background-color: green;
+}
+#casilla3 {
+    background-color: yellow;
+}
+#casilla4 {
+    background-color: blue;
+}
+#casilla5 {
+    background-color: orange;
+}
+#casilla6 {
+    background-color: white;
+}
+#casilla7 {
+    background-color: red;
+}
+#casilla8 {
+    background-color: green;
+}
+#casilla9 {
+    background-color: yellow;
+}
+#casilla10 {
+    background-color: blue;
+}
+#casilla11{
+    background-color: orange;
+}
+#casilla12 {
+    background-color: white;
+}
+#casilla13 {
+    background-color: red;
+}
+#casilla14 {
+    background-color: green;
+}
+#casilla15 {
+    background-color: yellow;
+}
+#casilla16 {
+    background-color: blue;
+}
+#casilla17 {
+    background-color: orange;
+}
+#casilla18 {
+    background-color: white;
+}
+#casilla19 {
+    background-color: red;
+}
+#casilla20 {
+    background-color: green;
+}
+#casilla21 {
+    background-color: yellow;
+}
+#casilla22 {
+    background-color: blue;
+}
+#casilla23 {
+    background-color: orange;
+}
+#casilla24 {
+    background-color: white;
+}
+#casilla25 {
+    background-color: black;
+}
